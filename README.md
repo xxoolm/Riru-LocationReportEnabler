@@ -25,7 +25,7 @@ and the return value will be changed
   ```
 
 * Return value
-  
+
   ```
   echo -n 310030 > /data/misc/riru/modules/location_report_enabler/gsm.sim.operator.numeric
   echo -n us > /data/misc/riru/modules/location_report_enabler/gsm.sim.operator.iso-country
